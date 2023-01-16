@@ -85,7 +85,8 @@ Clean Code
 
   
 
-Será levado em avaliação  
+
+**Será levado em avaliação** 
 
 Estrutura, arquitetura e organização do projeto   
 
